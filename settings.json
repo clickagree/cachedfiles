@@ -1,6 +1,6 @@
 {
 "version":"1.8",
-"popupEnabled":false,
+"popupEnabled":true,
 "alertTitle":"Hello",
 "alertMessage":"there, general kenobi."
 }
